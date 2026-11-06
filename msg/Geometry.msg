@@ -8,6 +8,7 @@ uint8 VECTOR=3    # use vector
 uint8 PLANE=4     # use plane
 uint8 CYLINDER=5  # use cylinder
 uint8 LINE=6      # use line
+uint8 LINE3D=7    # use line3d
 
 uint8 type
 
@@ -19,3 +20,4 @@ Vector3D                         vector    # VECTOR
 Plane3D                          plane     # PLANE
 Cylinder                         cylinder  # CYLINDER
 Line2D                           line      # LINE
+Line3D                           line3d    # LINE3D
